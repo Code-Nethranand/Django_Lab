@@ -1,0 +1,1 @@
+Develop a registration page for student enrollment as done in Module 2 but without page refresh using AJAX

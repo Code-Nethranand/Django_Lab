@@ -1,0 +1,2 @@
+Develop a Django app that performs student registration to a course. It should also display list of student registered for any selected course.
+Create students and course as models with enrolment as ManytoMany field.

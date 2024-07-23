@@ -1,0 +1,2 @@
+For student and course models created in Lab experiment for Module 2, register admin interfaces, perform migrations and illustrate data entry
+through admin forms.

@@ -1,0 +1,2 @@
+Develop a layout.html with a suitable header(containing navigation menu) adn footer with copyright and developer information.
+Inherit this layout.html and create 3 additional pages: Contact us, About us and Home page of any website.

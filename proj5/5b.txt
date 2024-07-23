@@ -1,0 +1,1 @@
+Develop a search application in Django using AJAX that displays courses enrolled by a student being searched

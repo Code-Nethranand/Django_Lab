@@ -1,0 +1,1 @@
+Develop a simple Django app that displays an unordered list of fruits and ordered list of selected students for an event.
